@@ -1,5 +1,6 @@
 # Bash it
 
+
 **Bash it** is a mash up of my own bash commands and scripts, other bash stuff I have found. 
 
 (And a shameless ripoff of [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh). :)
