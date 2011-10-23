@@ -17,7 +17,7 @@ export BASH_THEME='bobby'
 export GIT_HOSTING='git@git.domain.com'
 
 # Set my editor and git editor
-export EDITOR="/usr/bin/mate -w"
+export EDITOR="/usr/bin/vim "
 export GIT_EDITOR='/usr/bin/mate -w'
 
 # Set the path nginx
